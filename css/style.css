@@ -24,6 +24,7 @@ body{
     height:180px;
     background-position: center;
     background-size: cover;
+    border-radius: 10px;
 }
 /*header*/
 #logo{
@@ -115,7 +116,7 @@ div.image-center{
 div.image-right{
     background-image: url("../img/img-6.jpg");
 }
-aside h4, section h4{
+ section h4{
     padding-top:10px;
     padding-bottom:5px;
 }
